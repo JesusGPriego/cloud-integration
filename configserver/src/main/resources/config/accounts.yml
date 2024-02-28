@@ -1,0 +1,11 @@
+build:
+  version: '3.0'
+
+accounts:
+  message: 'Welcome to EazyBank accounts related local APIs'
+  contactDetails:
+    name: 'Suleware'
+    email: 'suleware@gmail.com'
+  onCallSupport:
+    - 01010101
+    - 01010101
